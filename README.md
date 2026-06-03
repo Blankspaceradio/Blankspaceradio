@@ -5,4 +5,4 @@
 - I have a BA in Game Design, BS in Computer Engineering, and a Master's in Electrical Engineering with a focus in Computer Engineering
 - I'm looking for a junior position in programming or engineering
 - LinkedIn: www.linkedin.com/in/mark-harmon-45b50a1a1
-- 
+
